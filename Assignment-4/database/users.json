@@ -1,0 +1,23 @@
+{
+  "count": 3,
+  "users": [
+    {
+      "name": "Marwan",
+      "age": 21,
+      "email": "marawan@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "mahmoud",
+      "age": 26,
+      "email": "mahmoud@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "kerolos",
+      "age": 25,
+      "email": "kerolos@gmail.com",
+      "id": 3
+    }
+  ]
+}
