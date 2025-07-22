@@ -1,0 +1,11 @@
+{
+  "count": 1,
+  "users": [
+    {
+      "name": "user 1",
+      "age": 27,
+      "email": "user1@email.com",
+      "id": 1
+    }
+  ]
+}
